@@ -89,7 +89,7 @@ Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 project
 Thank you! 
 
 
-## My Stats
+## My StackOverflow & GitHub Stats
 
 | [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2871356)](https://github.com/kurt-liao/so-stats) | [![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqiftekhar)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
