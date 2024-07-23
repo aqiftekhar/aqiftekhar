@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aqiftekhar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆 Achievements:
-- 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **58 Bronze** badges, showcasing my expertise and contributions.
+- 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
 
 👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3.
@@ -97,7 +97,7 @@ Thank you!
 
 I am proud to have earned the following IBM certifications:
 
-<table>
+<table style="width: 100%; text-align: center;">
   <tr>
     <td>
       <strong><a href="https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url">Data Science Foundations - Level 1</a></strong><br>
@@ -113,6 +113,7 @@ I am proud to have earned the following IBM certifications:
     </td>
   </tr>
 </table>
+
 
 
 ## 📚 Publications
