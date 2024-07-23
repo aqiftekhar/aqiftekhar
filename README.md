@@ -32,8 +32,6 @@ Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 project
 Thank you! ✌️
 Aqdas
 
-<a href="https://stackoverflow.com/users/2871356/aqdas" target="_blank" rel="noopener noreferrer">
-    <img src="https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=14513625" alt="stack stats" />&nbsp;
-</a>
+![stack stats](https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=2871356&withImage=true)
 
 [![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqiftekhar)](https://github.com/anuraghazra/github-readme-stats)
