@@ -89,9 +89,20 @@ Thank you!
 
 I am proud to have contributed to the Stack Overflow community and have earned:
 
-- 🥇 **4 Gold Badges**
-- 🥈 **17 Silver Badges**
-- 🥉 **60 Bronze Badges**
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Gold%20Badges-%E2%9C%94%20x%204-yellow?style=for-the-badge&logo=stackoverflow" alt="Gold Badges" width="120">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Silver%20Badges-%E2%9C%94%20x%2017-lightgrey?style=for-the-badge&logo=stackoverflow" alt="Silver Badges" width="120">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Bronze%20Badges-%E2%9C%94%20x%2060-bronze?style=for-the-badge&logo=stackoverflow" alt="Bronze Badges" width="120">
+    </td>
+  </tr>
+</table>
+
 
 Thank you for your support and recognition!
 
