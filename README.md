@@ -3,6 +3,8 @@
 
 🌟 Senior Full Stack Developer | 17+ Years Experience | Python, AI/ML, .NET, Angular, React, Vue, Web3 🌟
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aqiftekhar)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🏆 Achievements:
 - 🏅 StackOverflow: 4 Gold, 17 Silver, and 58 Bronze badges, showcasing my expertise and contributions.
 - 🌟 Fortune 500 Experience: Served over 9 years at Stewart Title and Enghouse Interactive.
