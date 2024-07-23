@@ -18,10 +18,10 @@ Aqdas
 ## 🚀 Career Highlights
 
 - **2005 - Present**: Began my development career with .NET stacks, honing my skills and expanding my expertise in various technologies including Python, NodeJs, React, Angular, Vue, Web 3, and AI/ML.
-- **2009 - 2012**: Joined Enghouse Interactive, where I developed applications for CISCO, contributing to their cutting-edge solutions.
-- **2013 - 2014**: Worked at Trimble Inc. as a key developer for the LandFolio project, which was successfully implemented at the Ministry of Trinidad and the Ministry of Kuwait.
-- **2015 - 2022**: Served at Stewart Title (Houston, TX), initially as an Analyst Programmer and later as an Application Architect, shaping critical applications and systems.
-- **2022 - Present**: Transitioned to freelancing, where I’ve supported over 58 startups in achieving their technology and business goals through bespoke solutions and guidance.
+- **2009 - 2012**: Joined **Enghouse Interactive**, where I developed applications for CISCO, contributing to their cutting-edge solutions.
+- **2013 - 2014**: Worked at **Trimble Inc**. as a key developer for the LandFolio project, which was successfully implemented at the Ministry of Trinidad and the Ministry of Kuwait.
+- **2015 - 2022**: Served at **Stewart Title (Houston, TX)**, initially as an Analyst Programmer and later as an Application Architect, shaping critical applications and systems.
+- **2022 - Present**: Transitioned to freelancing, where I’ve **supported over 58 startups** in achieving their technology and business goals through bespoke solutions and guidance.
 
 
 ## 💻 Tech Skills
@@ -119,7 +119,7 @@ I am proud to have earned the following IBM certifications:
 
 ## 📚 Publications
 
-Here are some of my publications along with their stats:
+In my spare time, I enjoy writing technical articles on platforms like Code Project and LinkedIn. Here are some of my notable publications along with their statistics:
 
 | Publication | Ratings | Views | Downloads |
 | --- | --- | --- | --- |
