@@ -31,15 +31,6 @@ Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 project
 
 Thank you! 
 
-## 📫 Contact Me
-
-Feel free to reach out to me through the following platforms:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aiftekhar/)
-- [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-orange?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~014f46a668bd15b677/)
-- [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:aqdasiftekhar@gmail.com)
-
-
 
 ## 🏆 Stack Overflow Achievements
 
@@ -89,3 +80,27 @@ Here are some of my publications along with their stats:
 | **[Using Unmanaged (VB6) Code in .NET](https://www.codeproject.com/Articles/154144/Using-Unmanaged-VB6-Code-in-NET)** | 4.8/5 | 70.9K | 1.5K |
 | **[Microsoft Blazor! The Way Forward](https://www.linkedin.com/pulse/microsoft-blazor-way-forward-aqdas-iftekhar/)** | N/A | 4K | N/A |
 
+
+## 📫 Contact Me
+
+Feel free to reach out to me through the following platforms:
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/aiftekhar/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.upwork.com/freelancers/~014f46a668bd15b677/">
+        <img src="https://img.shields.io/badge/Upwork-Hire%20Me-orange?style=for-the-badge&logo=upwork" alt="Upwork">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:aqdasiftekhar@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
