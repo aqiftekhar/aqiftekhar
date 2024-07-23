@@ -1,15 +1,12 @@
 ## IBM Certified Full Stack Developer | C#/NodeJS | React,Angular | AI/ML 👋
 
-
-🌟 Senior Full Stack Developer | 17+ Years Experience | Python, AI/ML, .NET, Angular, React, Vue, Web3 🌟
+👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aqiftekhar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆 Achievements:
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
-
-👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3.
 
 ## 🚀 Career Highlights
 
