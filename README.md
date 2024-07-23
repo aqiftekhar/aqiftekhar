@@ -11,10 +11,14 @@
 
 👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3.
 
-## 🚀 Career Highlights:
-- 👨‍💻 Technical Leadership: Spearheaded the development of LandFolio for Trimble Inc. using Angular.
-- 💼 Consultancy: Guided a Swiss IT company on Web3 projects.
-- 🏢 Professional Background: Former Application Architect at Stewart Title (Houston, TX).
+## 🚀 Career Highlights
+
+- **2005 - Present**: Began my development career with .NET stacks, honing my skills and expanding my expertise in various technologies including Python, NodeJs, React, Angular, Vue, Web 3, and AI/ML.
+- **2009 - 2012**: Joined Enghouse Interactive, where I developed applications for CISCO, contributing to their cutting-edge solutions.
+- **2013 - 2014**: Worked at Trimble Inc. as a key developer for the LandFolio project, which was successfully implemented at the Ministry of Trinidad and the Ministry of Kuwait.
+- **2015 - 2022**: Served at Stewart Title (Houston, TX), initially as an Analyst Programmer and later as an Application Architect, shaping critical applications and systems.
+- **2022 - Present**: Transitioned to freelancing, where I’ve supported over 58 startups in achieving their technology and business goals through bespoke solutions and guidance.
+
 
 ## 💻 Tech Skills
 
