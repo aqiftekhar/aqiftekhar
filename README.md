@@ -1,5 +1,5 @@
 ## IBM Certified Full Stack Developer | C#/NodeJS | React,Angular | AI/ML 👋
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat&logo=github)
+![](https://komarev.com/ghpvc/?username=aqiftekhar&color=blue)
 
 
 🌟 Senior Full Stack Developer | 17+ Years Experience | Python, AI/ML, .NET, Angular, React, Vue, Web3 🌟
