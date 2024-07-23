@@ -93,17 +93,20 @@ I am proud to have contributed to the Stack Overflow community and have earned:
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://img.shields.io/badge/4%20Gold%20Badges-%F0%9F%8F%87%20x%204-F39C12?style=for-the-badge&logo=stackoverflow" alt="4 Gold Badges" width="160" height="160">
+        <img src="https://img.shields.io/badge/Gold%20Badges-4-F39C12?style=for-the-badge&logo=trophy&logoColor=white" alt="4 Gold Badges" width="120" height="120">
+        <p>4 Gold Badges</p>
       </a>
     </td>
     <td>
       <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://img.shields.io/badge/17%20Silver%20Badges-%F0%9F%8F%8E%20x%2017-C0C0C0?style=for-the-badge&logo=stackoverflow" alt="17 Silver Badges" width="160" height="160">
+        <img src="https://img.shields.io/badge/Silver%20Badges-17-C0C0C0?style=for-the-badge&logo=trophy&logoColor=white" alt="17 Silver Badges" width="120" height="120">
+        <p>17 Silver Badges</p>
       </a>
     </td>
     <td>
       <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://img.shields.io/badge/60%20Bronze%20Badges-%F0%9F%8F%8F%20x%2060-8C7853?style=for-the-badge&logo=stackoverflow" alt="60 Bronze Badges" width="160" height="160">
+        <img src="https://img.shields.io/badge/Bronze%20Badges-60-8C7853?style=for-the-badge&logo=trophy&logoColor=white" alt="60 Bronze Badges" width="120" height="120">
+        <p>60 Bronze Badges</p>
       </a>
     </td>
   </tr>
