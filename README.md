@@ -32,8 +32,6 @@ Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 project
 Thank you! 
 ✌Aqdas
 
-
-
 ## 🏆 Stack Overflow Achievements
 
 I am proud to have contributed to the Stack Overflow community and have earned:
@@ -50,4 +48,14 @@ Thank you for your support and recognition!
 | [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2871356)](https://github.com/kurt-liao/so-stats) | [![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqiftekhar)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
+
+## 📜 Certifications
+
+I am proud to have earned the following IBM certifications:
+
+| Certification | Badge |
+| --- | --- |
+| [Web Development with HTML, CSS, JavaScript Essentials](https://www.credly.com/badges/0ad7c236-a7f6-45b0-810e-ef8f34501111/public_url) | ![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/680x680/images/0ad7c236-a7f6-45b0-810e-ef8f34501111/image.png) |
+| [Front-end Development with React](https://www.credly.com/badges/3649bcd8-5773-404d-a8f9-13dfa55d58ae/public_url) | ![Front-end Development with React](https://images.credly.com/size/680x680/images/3649bcd8-5773-404d-a8f9-13dfa55d58ae/image.png) |
+| [Data Science Foundations - Level 1](https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url) | ![Data Science Foundations - Level 1](https://images.credly.com/size/680x680/images/f66d29c7-b433-4e5f-b148-26d69719d16e/image.png) |
 
