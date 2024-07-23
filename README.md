@@ -1,6 +1,11 @@
 ## IBM Certified Full Stack Developer | C#/NodeJS | React,Angular | AI/ML 👋
 
-👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3.
+👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3. Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 projects. I excel in database design, complex stored procedures, and query optimization.
+
+🚀 Seeking a highly skilled Full Stack Developer/Technical Leader? Let's connect! 🚀
+
+Thank you! 
+Aqdas
 
 ## 🏆 Achievements:
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
@@ -80,13 +85,6 @@ Here are some of my tech skills, represented with badges:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-
-
-Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 projects. I excel in database design, complex stored procedures, and query optimization.
-
-🚀 Seeking a highly skilled Full Stack Developer/Technical Leader? Let's connect! 🚀
-
-Thank you! 
 
 
 ## My StackOverflow & GitHub Stats
