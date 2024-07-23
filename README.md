@@ -93,24 +93,25 @@ I am proud to have contributed to the Stack Overflow community and have earned:
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://img.shields.io/badge/Gold%20Badges-4-F39C12?style=for-the-badge&logo=trophy&logoColor=white" alt="4 Gold Badges" width="120" height="120">
+        <img src="https://github-profile-trophy.vercel.app/?username=aqiftekhar&theme=darkhub&row=1&column=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Gold%20Badge&color=F39C12" alt="Gold Badges" width="120" height="120">
         <p>4 Gold Badges</p>
       </a>
     </td>
     <td>
       <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://img.shields.io/badge/Silver%20Badges-17-C0C0C0?style=for-the-badge&logo=trophy&logoColor=white" alt="17 Silver Badges" width="120" height="120">
+        <img src="https://github-profile-trophy.vercel.app/?username=aqiftekhar&theme=darkhub&row=1&column=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Silver%20Badge&color=C0C0C0" alt="Silver Badges" width="120" height="120">
         <p>17 Silver Badges</p>
       </a>
     </td>
     <td>
       <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://img.shields.io/badge/Bronze%20Badges-60-8C7853?style=for-the-badge&logo=trophy&logoColor=white" alt="60 Bronze Badges" width="120" height="120">
+        <img src="https://github-profile-trophy.vercel.app/?username=aqiftekhar&theme=darkhub&row=1&column=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Bronze%20Badge&color=8C7853" alt="Bronze Badges" width="120" height="120">
         <p>60 Bronze Badges</p>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 Thank you for your support and recognition!
