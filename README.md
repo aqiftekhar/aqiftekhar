@@ -113,7 +113,6 @@ I am proud to have contributed to the Stack Overflow community and have earned:
 </table>
 
 
-
 Thank you for your support and recognition!
 
 
