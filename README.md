@@ -70,3 +70,13 @@ I am proud to have earned the following IBM certifications:
   </tr>
 </table>
 
+
+## 📚 Publications
+
+Here are some of my publications along with their stats:
+
+| Publication | Ratings | Views | Downloads |
+| --- | --- | --- | --- |
+| **[Using Unmanaged (VB6) Code in .NET](https://www.codeproject.com/Articles/154144/Using-Unmanaged-VB6-Code-in-NET)** | 4.8/5 | 70.9K | 1.5K |
+| **[Microsoft Blazor! The Way Forward](https://www.linkedin.com/pulse/microsoft-blazor-way-forward-aqdas-iftekhar/)** | N/A | 4K | N/A |
+
