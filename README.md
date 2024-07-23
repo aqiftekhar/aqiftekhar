@@ -29,11 +29,17 @@ Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 project
 
 🚀 Seeking a highly skilled Full Stack Developer/Technical Leader? Let's connect! 🚀
 
-Thank you! ✌️
-Aqdas
+Thank you! 
+✌Aqdas
 
 
 
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2871356)](https://github.com/kurt-liao/so-stats)
 
 [![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqiftekhar)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=aqiftekhar&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqiftekhar&theme=radical&layout=compact" />
+</div>
