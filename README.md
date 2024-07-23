@@ -1,4 +1,5 @@
 ## IBM Certified Full Stack Developer | C#/NodeJS | React,Angular | AI/ML 👋
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat&logo=github)
 
 
 🌟 Senior Full Stack Developer | 17+ Years Experience | Python, AI/ML, .NET, Angular, React, Vue, Web3 🌟
@@ -6,15 +7,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aqiftekhar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆 Achievements:
-- 🏅 StackOverflow: 4 Gold, 17 Silver, and 58 Bronze badges, showcasing my expertise and contributions.
-- 🌟 Fortune 500 Experience: Served over 9 years at Stewart Title and Enghouse Interactive.
+- 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **58 Bronze** badges, showcasing my expertise and contributions.
+- 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
 
 👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3.
 
 ## 🚀 Career Highlights:
 - 👨‍💻 Technical Leadership: Spearheaded the development of LandFolio for Trimble Inc. using Angular.
 - 💼 Consultancy: Guided a Swiss IT company on Web3 projects.
-- 🏢 Professional Background: Former Application Architect at Stewart Title.
+- 🏢 Professional Background: Former Application Architect at Stewart Title (Houston, TX).
 
 ## 💻 Tech Skills
 
@@ -85,38 +86,6 @@ Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 project
 🚀 Seeking a highly skilled Full Stack Developer/Technical Leader? Let's connect! 🚀
 
 Thank you! 
-
-## 🏆 Stack Overflow Achievements
-
-I am proud to have contributed to the Stack Overflow community and have earned:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://github-profile-trophy.vercel.app/?username=aqiftekhar&theme=darkhub&row=1&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Gold%20Badges&color=F39C12" alt="4 Gold Badges" width="120" height="120">
-        <p>4 Gold Badges</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://github-profile-trophy.vercel.app/?username=aqiftekhar&theme=darkhub&row=1&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Silver%20Badges&color=C0C0C0" alt="17 Silver Badges" width="120" height="120">
-        <p>17 Silver Badges</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/2871356">
-        <img src="https://github-profile-trophy.vercel.app/?username=aqiftekhar&theme=darkhub&row=1&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Bronze%20Badges&color=8C7853" alt="60 Bronze Badges" width="120" height="120">
-        <p>60 Bronze Badges</p>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-Thank you for your support and recognition!
 
 
 ## My Stats
