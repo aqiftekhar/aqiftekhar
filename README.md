@@ -53,8 +53,20 @@ Thank you for your support and recognition!
 
 I am proud to have earned the following IBM certifications:
 
-| Certification | Certification | Certification |
-| --- | --- | --- |
-| **[Data Science Foundations - Level 1](https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url)** ![Data Science Foundations - Level 1](https://images.credly.com/size/220x220/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png) | **[Web Development with HTML, CSS, and JavaScript Essentials](https://www.credly.com/badges/0ad7c236-a7f6-45b0-810e-ef8f34501111/public_url)** ![Web Development with HTML, CSS, and JavaScript Essentials](https://images.credly.com/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png) | **[Front-end Development with React](https://www.credly.com/badges/3649bcd8-5773-404d-a8f9-13dfa55d58ae/public_url)** ![Front-end Development with React](https://images.credly.com/size/220x220/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png) |
-
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url">Data Science Foundations - Level 1</a></strong><br>
+      <img src="https://images.credly.com/size/120x120/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" width="120" height="120" alt="Data Science Foundations - Level 1">
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/badges/0ad7c236-a7f6-45b0-810e-ef8f34501111/public_url">Web Development with HTML, CSS, and JavaScript Essentials</a></strong><br>
+      <img src="https://images.credly.com/size/120x120/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="120" height="120" alt="Web Development with HTML, CSS, and JavaScript Essentials">
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/badges/3649bcd8-5773-404d-a8f9-13dfa55d58ae/public_url">Front-end Development with React</a></strong><br>
+      <img src="https://images.credly.com/size/120x120/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" width="120" height="120" alt="Front-end Development with React">
+    </td>
+  </tr>
+</table>
 
