@@ -90,9 +90,10 @@ Here are some of my tech skills, represented with badges:
 
 ## My StackOverflow & GitHub Stats
 
-| [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2871356)](https://github.com/kurt-liao/so-stats) | [![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqiftekhar)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
+##| [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=2871356)](https://github.com/kurt-liao/so-stats) | [![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqiftekhar)](https://github.com/anuraghazra/github-readme-stats) |
+## | --- | --- |
 
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=aqdas&period=PERIOD&mini=IS_MINI)
 
 ## 📜 Certifications
 
