@@ -90,7 +90,7 @@ Here are some of my tech skills, represented with badges:
 
 ## My StackOverflow & GitHub Stats
 
-![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=2871356&period=PERIOD&mini=IS_MINI)
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=2871356)
 
 ## 📜 Certifications
 
