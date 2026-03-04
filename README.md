@@ -24,6 +24,32 @@ Aqdas
 - **2022 - Present**: Transitioned to freelancing, where I’ve **supported over 58 startups** in achieving their technology and business goals through bespoke solutions and guidance.
 
 
+## My StackOverflow Stats
+
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=2871356)
+
+## 📜 Certifications
+
+I am proud to have earned the following IBM certifications:
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <strong><a href="https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url">Data Science Foundations - Level 1</a></strong><br>
+      <img src="https://images.credly.com/size/120x120/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" width="120" height="120" alt="Data Science Foundations - Level 1">
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/badges/0ad7c236-a7f6-45b0-810e-ef8f34501111/public_url">Web Development with HTML, CSS, and JavaScript Essentials</a></strong><br>
+      <img src="https://images.credly.com/size/120x120/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="120" height="120" alt="Web Development with HTML, CSS, and JavaScript Essentials">
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/badges/3649bcd8-5773-404d-a8f9-13dfa55d58ae/public_url">Front-end Development with React</a></strong><br>
+      <img src="https://images.credly.com/size/120x120/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" width="120" height="120" alt="Front-end Development with React">
+    </td>
+  </tr>
+</table>
+
+
 ## 💻 Tech Skills
 
 Here are some of my tech skills, represented with badges:
@@ -86,33 +112,6 @@ Here are some of my tech skills, represented with badges:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-
-
-## My StackOverflow & GitHub Stats
-
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=2871356)
-
-## 📜 Certifications
-
-I am proud to have earned the following IBM certifications:
-
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td>
-      <strong><a href="https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url">Data Science Foundations - Level 1</a></strong><br>
-      <img src="https://images.credly.com/size/120x120/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" width="120" height="120" alt="Data Science Foundations - Level 1">
-    </td>
-    <td>
-      <strong><a href="https://www.credly.com/badges/0ad7c236-a7f6-45b0-810e-ef8f34501111/public_url">Web Development with HTML, CSS, and JavaScript Essentials</a></strong><br>
-      <img src="https://images.credly.com/size/120x120/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="120" height="120" alt="Web Development with HTML, CSS, and JavaScript Essentials">
-    </td>
-    <td>
-      <strong><a href="https://www.credly.com/badges/3649bcd8-5773-404d-a8f9-13dfa55d58ae/public_url">Front-end Development with React</a></strong><br>
-      <img src="https://images.credly.com/size/120x120/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" width="120" height="120" alt="Front-end Development with React">
-    </td>
-  </tr>
-</table>
-
 
 
 ## 📚 Publications
