@@ -36,7 +36,7 @@ I am proud to have earned the following IBM certifications:
   <tr>
     <td>
       <strong><a href="https://www.credly.com/badges/f66d29c7-b433-4e5f-b148-26d69719d16e/public_url">Data Science Foundations - Level 1</a></strong><br>
-      <img src="https://images.credly.com/size/120x120/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" width="120" height="120" alt="Data Science Foundations - Level 1">
+      <img src="https://images.credly.com/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob" width="120" height="120" alt="Data Science Foundations - Level 1">
     </td>
     <td>
       <strong><a href="https://www.credly.com/badges/0ad7c236-a7f6-45b0-810e-ef8f34501111/public_url">Web Development with HTML, CSS, and JavaScript Essentials</a></strong><br>
