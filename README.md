@@ -12,7 +12,7 @@ Aqdas
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
 
 
-[![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)]
+![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)
 
 
 ## 🚀 Career Highlights
