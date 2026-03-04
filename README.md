@@ -14,7 +14,7 @@ Aqdas
  
 ## [![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)]
 
 
 ## 🚀 Career Highlights
