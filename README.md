@@ -11,8 +11,6 @@ Aqdas
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
 
- 
-## [![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)]
 
