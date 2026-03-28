@@ -23,67 +23,67 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ### 🤖 AI Systems & LLM Engineering
 
 ✓ Designing agentic workflows (planning, execution, tool use)  
-⚡ `Python`, `LangChain`, `custom orchestration layers`  
+  ⚡ `Python`, `LangChain`, `custom orchestration layers`  
 
 ✓ Orchestrating LLMs across cloud and local environments  
-⚡ `OpenAI`, `Claude`, `Gemini`, `Vertex AI`, `Ollama`  
+  ⚡ `OpenAI`, `Claude`, `Gemini`, `Vertex AI`, `Ollama`  
 
 ✓ Building RAG systems with vector databases and hybrid retrieval  
-⚡ `Pinecone`, `Weaviate`, `Chroma`, `FAISS`  
+  ⚡ `Pinecone`, `Weaviate`, `Chroma`, `FAISS`  
 
 ✓ Managing state, memory, and tool execution in long-running sessions  
-⚡ `Function calling`, `tool APIs`, `Redis`, `workflow engines`  
+  ⚡ `Function calling`, `tool APIs`, `Redis`, `workflow engines`  
 
 ✓ Controlling cost, latency, and reliability in production AI systems  
-⚡ `Caching`, `Retries`, `Observability`, `Monitoring`  
+  ⚡ `Caching`, `Retries`, `Observability`, `Monitoring`  
 
 ✓ Deploying private LLMs where data boundaries matter  
-⚡ `Ollama`, `Open-source LLMs`, `VPC/on-prem deployments`
+  ⚡ `Ollama`, `Open-source LLMs`, `VPC/on-prem deployments`
 
 
 ### ⚙️ System Architecture & Backend
 
 ✓ Scalable backend systems  
-⚡ `Node.js`, `Python`, `.NET`  
+  ⚡ `Node.js`, `Python`, `.NET`  
 
 ✓ API design  
-⚡ `REST`, `GraphQL` , `gRPC`  
+  ⚡ `REST`, `GraphQL` , `gRPC`  
 
 ✓ Distributed systems & async processing  
-⚡ `Message queues`, `Celery`, `Kafka`, `Async frameworks`  
+  ⚡ `Message queues`, `Celery`, `Kafka`, `Async frameworks`  
 
 ✓ Database design  
-⚡ `MSSQL`, `MySQL`, `PostgreSQL`, `MongoDB`, `DynamoDB`  
+  ⚡ `MSSQL`, `MySQL`, `PostgreSQL`, `MongoDB`, `DynamoDB`  
 
 ✓ Performance optimization & system reliability  
-⚡ `Caching`, `Load balancing`, `Monitoring`, `Profiling`  
+  ⚡ `Caching`, `Load balancing`, `Monitoring`, `Profiling`  
 
 
 ### 🌐 Frontend & Product
 
 ✓ Frontend frameworks  
-⚡ `React`, `Next.js`, `Angular`, `Vue.js`  
+  ⚡ `React`, `Next.js`, `Angular`, `Vue.js`  
 
 ✓ Complex dashboards & data-heavy interfaces  
-⚡ `Highcharts`, `D3.js`, `Kendo UI`  
+  ⚡ `Highcharts`, `D3.js`, `Kendo UI`  
 
 ✓ SaaS UX focused on clarity and usability  
-⚡ `Figma`, `TailwindCSS`, `Bootstrap`  
+  ⚡ `Figma`, `TailwindCSS`, `Bootstrap`  
 
 
 ### ☁️ Cloud & Infrastructure
 
 ✓ Cloud platforms  
-⚡ `AWS`, `Azure`, `GCP`  
+  ⚡ `AWS`, `Azure`, `GCP`  
 
 ✓ Containerization & orchestration  
-⚡ `Docker`, `Kubernetes`  
+  ⚡ `Docker`, `Kubernetes`  
 
 ✓ CI/CD pipelines  
-⚡ `GitHub Actions`, `Jenkins`, `Azure DevOps`  
+  ⚡ `GitHub Actions`, `Jenkins`, `Azure DevOps`  
 
 ✓ Production monitoring & scaling  
-⚡ `Prometheus`, `Grafana`, `NewRelic`, `CloudWatch`
+  ⚡ `Prometheus`, `Grafana`, `NewRelic`, `CloudWatch`
 
 
 ## Selected Experience
