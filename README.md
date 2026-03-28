@@ -11,7 +11,6 @@ Clients bring me in when:
 
 My strength is owning systems end-to-end — frontend, backend, cloud, and data — and applying AI as part of a solid engineering foundation, not as a bolt-on feature.
 
----
 
 ## 🏆 Achievements:
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
@@ -21,6 +20,7 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 
 ## Core Expertise
 
+---
 ### 🤖 AI Systems & LLM Engineering
 
 ✓ Designing agentic workflows (planning, execution, tool use)  
@@ -30,7 +30,6 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ✓ Controlling cost, latency, and reliability in production AI systems  
 ✓ Deploying private LLMs where data boundaries matter  
 
----
 
 ### ⚙️ System Architecture & Backend
 
@@ -40,7 +39,6 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ✓ Database design (SQL + NoSQL)  
 ✓ Performance optimization & system reliability  
 
----
 
 ### 🌐 Frontend & Product
 
@@ -48,7 +46,6 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ✓ Complex dashboards & data-heavy interfaces  
 ✓ SaaS UX focused on clarity and usability  
 
----
 
 ### ☁️ Cloud & Infrastructure
 
@@ -57,7 +54,6 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ✓ CI/CD pipelines  
 ✓ Production monitoring & scaling  
 
----
 
 ## Selected Experience
 
