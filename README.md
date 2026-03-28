@@ -11,13 +11,13 @@ Clients bring me in when:
 
 My strength is owning systems end-to-end — frontend, backend, cloud, and data — and applying AI as part of a solid engineering foundation, not as a bolt-on feature.
 
-
-![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)
-
+---
 
 ## 🏆 Achievements:
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
+
+---
 
 ## Core Expertise
 
@@ -71,9 +71,9 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 
 ## 🏆 Proof of Work
 
-- StackOverflow: 4 Gold, 17 Silver, 60 Bronze  
 - 18+ years of production engineering experience  
 - Built systems across finance, legal-tech, and enterprise SaaS  
+
 
 ![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)
 
@@ -99,18 +99,11 @@ I write occasionally about engineering decisions, architecture, and emerging AI 
 
 ---
 
-## 🚀 Career Highlights
-
-- **2005 - 2009**: Began my development career with .NET stacks, honing my skills and expanding my expertise in various technologies including Python, NodeJs, React, Angular, Vue, Web 3, and AI/ML.
-- **2009 - 2012**: Joined **Enghouse Interactive**, where I developed applications for CISCO, contributing to their cutting-edge solutions.
-- **2013 - 2014**: Worked at **Trimble Inc**. as a key developer for the LandFolio project, which was successfully implemented at the Ministry of Trinidad and the Ministry of Kuwait.
-- **2015 - 2022**: Served at **Stewart Title (Houston, TX)**, initially as an Analyst Programmer and later as an Application Architect, shaping critical applications and systems.
-- **2022 - Present**: CTO NPMCODE LLC - **supported over 58 startups** in achieving their technology and business goals through bespoke solutions and guidance.
-
-
 ## My StackOverflow Stats
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=2871356)
+
+---
 
 ## 📜 Certifications
 
@@ -133,72 +126,7 @@ I am proud to have earned the following IBM certifications:
   </tr>
 </table>
 
-
-## 💻 Tech Skills
-
-Here are some of my tech skills, represented with badges:
-
-### ⚙️ Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Restful API](https://img.shields.io/badge/RESTful%20API-25D366?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-[![Web API](https://img.shields.io/badge/Web%20API-2E8B57?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Web_API)
-
-### 🌐 Frontend
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=aspnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
-
-### 📱 Mobile Apps
-[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
-### 📊 Data Visualization
-[![Highcharts](https://img.shields.io/badge/Highcharts-6E6E6E?style=for-the-badge&logo=highcharts&logoColor=white)](https://www.highcharts.com/)
-[![D3.js](https://img.shields.io/badge/D3.js-F9A825?style=for-the-badge&logo=d3.js&logoColor=white)](https://d3js.org/)
-[![Kendo UI](https://img.shields.io/badge/Kendo%20UI-0082FC?style=for-the-badge&logo=kendo-ui&logoColor=white)](https://www.telerik.com/kendo-ui)
-
-### 🔗 APIs
-[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/)
-[![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
-
-### 💾 Databases
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
-[![Azure DB](https://img.shields.io/badge/Azure%20DB-0089D6?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)
-
-### 🤖 AI/ML
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-8C1D40?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-
-### ☁️ Cloud
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-
-
-## 📚 Publications
-
-In my spare time, I enjoy writing technical articles on platforms like Code Project and LinkedIn. Here are some of my notable publications along with their statistics:
-
-| Publication | Ratings | Views | Downloads |
-| --- | --- | --- | --- |
-| **[Using Unmanaged (VB6) Code in .NET](https://www.codeproject.com/Articles/154144/Using-Unmanaged-VB6-Code-in-NET)** | 4.8/5 | 70.9K | 1.5K |
-| **[Microsoft Blazor! The Way Forward](https://www.linkedin.com/pulse/microsoft-blazor-way-forward-aqdas-iftekhar/)** | N/A | 4K | N/A |
-
+---
 
 ## 📫 Contact Me
 
@@ -223,3 +151,5 @@ Feel free to reach out to me through the following platforms:
     </td>
   </tr>
 </table>
+
+---
