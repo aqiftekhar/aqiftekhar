@@ -19,6 +19,85 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
 
+## Core Expertise
+
+### 🤖 AI Systems & LLM Engineering
+
+✓ Designing agentic workflows (planning, execution, tool use)  
+✓ Orchestrating LLMs across cloud and local environments  
+✓ Building RAG systems with vector databases and hybrid retrieval  
+✓ Managing state, memory, and tool execution in long-running sessions  
+✓ Controlling cost, latency, and reliability in production AI systems  
+✓ Deploying private LLMs where data boundaries matter  
+
+---
+
+### ⚙️ System Architecture & Backend
+
+✓ Scalable backend systems (Node.js, Python, .NET)  
+✓ API design (REST, GraphQL)  
+✓ Distributed systems & async processing  
+✓ Database design (SQL + NoSQL)  
+✓ Performance optimization & system reliability  
+
+---
+
+### 🌐 Frontend & Product
+
+✓ React, Next.js, Angular, Vue  
+✓ Complex dashboards & data-heavy interfaces  
+✓ SaaS UX focused on clarity and usability  
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+✓ AWS, Azure  
+✓ Docker, Kubernetes  
+✓ CI/CD pipelines  
+✓ Production monitoring & scaling  
+
+---
+
+## Selected Experience
+
+- Built and scaled multiple SaaS platforms from scratch  
+- Developed AI-powered systems for legal-tech and document workflows  
+- Architected enterprise applications used by government entities  
+- 9+ years at enterprise companies including Stewart Title and Enghouse Interactive  
+- Supported 50+ startups with product architecture and development  
+
+---
+
+## 🏆 Proof of Work
+
+- StackOverflow: 4 Gold, 17 Silver, 60 Bronze  
+- 18+ years of production engineering experience  
+- Built systems across finance, legal-tech, and enterprise SaaS  
+
+![trophy](https://github-trophies.vercel.app/?username=aqiftekhar)
+
+---
+
+## How I Work
+
+I operate as a technical partner, not just a developer.
+
+- I think in systems, not features  
+- I focus on long-term maintainability  
+- I push back when something won’t scale  
+- I prioritize clarity, reliability, and measurable outcomes  
+
+---
+
+## 📚 Writing & Thought Process
+
+I write occasionally about engineering decisions, architecture, and emerging AI systems.
+
+- https://www.codeproject.com/Articles/154144/Using-Unmanaged-VB6-Code-in-NET  
+- https://www.linkedin.com/pulse/microsoft-blazor-way-forward-aqdas-iftekhar/  
+
+---
 
 ## 🚀 Career Highlights
 
@@ -79,7 +158,6 @@ Here are some of my tech skills, represented with badges:
 ### 📱 Mobile Apps
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
 
 ### 📊 Data Visualization
 [![Highcharts](https://img.shields.io/badge/Highcharts-6E6E6E?style=for-the-badge&logo=highcharts&logoColor=white)](https://www.highcharts.com/)
