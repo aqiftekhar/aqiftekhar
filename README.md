@@ -23,46 +23,67 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ### 🤖 AI Systems & LLM Engineering
 
 ✓ Designing agentic workflows (planning, execution, tool use)  
-  ⚡ `OpenAI`, `Claude`, `Gemini`, `Vertex AI`, `Ollama`  
+⚡ `Python`, `LangChain`, `custom orchestration layers`  
 
 ✓ Orchestrating LLMs across cloud and local environments  
-  ⚡ `OpenAI`, `Claude`, `Gemini` , `Vertex AI` , `Ollama`  
+⚡ `OpenAI`, `Claude`, `Gemini`, `Vertex AI`, `Ollama`  
 
 ✓ Building RAG systems with vector databases and hybrid retrieval  
-  Pinecone, Weaviate, Chroma, FAISS  
+⚡ `Pinecone`, `Weaviate`, `Chroma`, `FAISS`  
 
 ✓ Managing state, memory, and tool execution in long-running sessions  
-  Function calling, tool APIs, Redis  
+⚡ `Function calling`, `tool APIs`, `Redis`, `workflow engines`  
 
 ✓ Controlling cost, latency, and reliability in production AI systems  
-  Caching, retries, observability  
+⚡ `Caching`, `Retries`, `Observability`, `Monitoring`  
 
 ✓ Deploying private LLMs where data boundaries matter  
-  Ollama, open-source LLMs, VPC/on-prem setups  
+⚡ `Ollama`, `Open-source LLMs`, `VPC/on-prem deployments`
 
 
 ### ⚙️ System Architecture & Backend
 
-✓ Scalable backend systems (Node.js, Python, .NET)  
-✓ API design (REST, GraphQL)  
+✓ Scalable backend systems  
+⚡ `Node.js`, `Python`, `.NET`  
+
+✓ API design  
+⚡ `REST`, `GraphQL` , `gRPC`  
+
 ✓ Distributed systems & async processing  
-✓ Database design (SQL + NoSQL)  
+⚡ `Message queues`, `Celery`, `Kafka`, `Async frameworks`  
+
+✓ Database design  
+⚡ `MSSQL`, `MySQL`, `PostgreSQL`, `MongoDB`, `DynamoDB`  
+
 ✓ Performance optimization & system reliability  
+⚡ `Caching`, `Load balancing`, `Monitoring`, `Profiling`  
 
 
 ### 🌐 Frontend & Product
 
-✓ React, Next.js, Angular, Vue  
+✓ Frontend frameworks  
+⚡ `React`, `Next.js`, `Angular`, `Vue.js`  
+
 ✓ Complex dashboards & data-heavy interfaces  
+⚡ `Highcharts`, `D3.js`, `Kendo UI`  
+
 ✓ SaaS UX focused on clarity and usability  
+⚡ `Figma`, `TailwindCSS`, `Bootstrap`  
 
 
 ### ☁️ Cloud & Infrastructure
 
-✓ AWS, Azure  
-✓ Docker, Kubernetes  
+✓ Cloud platforms  
+⚡ `AWS`, `Azure`, `GCP`  
+
+✓ Containerization & orchestration  
+⚡ `Docker`, `Kubernetes`  
+
 ✓ CI/CD pipelines  
+⚡ `GitHub Actions`, `Jenkins`, `Azure DevOps`  
+
 ✓ Production monitoring & scaling  
+⚡ `Prometheus`, `Grafana`, `NewRelic`, `CloudWatch`
 
 
 ## Selected Experience
