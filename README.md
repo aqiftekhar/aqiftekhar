@@ -23,11 +23,22 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 ### 🤖 AI Systems & LLM Engineering
 
 ✓ Designing agentic workflows (planning, execution, tool use)  
+  ⚡ `OpenAI`, `Claude`, `Gemini`, `Vertex AI`, `Ollama`  
+
 ✓ Orchestrating LLMs across cloud and local environments  
+  ⚡ `OpenAI`, `Claude`, `Gemini` , `Vertex AI` , `Ollama`  
+
 ✓ Building RAG systems with vector databases and hybrid retrieval  
+  Pinecone, Weaviate, Chroma, FAISS  
+
 ✓ Managing state, memory, and tool execution in long-running sessions  
+  Function calling, tool APIs, Redis  
+
 ✓ Controlling cost, latency, and reliability in production AI systems  
+  Caching, retries, observability  
+
 ✓ Deploying private LLMs where data boundaries matter  
+  Ollama, open-source LLMs, VPC/on-prem setups  
 
 
 ### ⚙️ System Architecture & Backend
