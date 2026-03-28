@@ -4,10 +4,10 @@
 
 Clients bring me in when:
 
-✓ A SaaS product needs to scale reliably across users, data, and features
-✓ Architecture has grown fragile and requires senior-level restructuring
-✓ New capabilities — including AI — must be added without disrupting production
-✓ Performance, cost, or maintainability are becoming long-term risks
+✓ A SaaS product needs to scale reliably across users, data, and features  
+✓ Architecture has grown fragile and requires senior-level restructuring  
+✓ New capabilities — including AI — must be added without disrupting production  
+✓ Performance, cost, or maintainability are becoming long-term risks  
 
 My strength is owning systems end-to-end — frontend, backend, cloud, and data — and applying AI as part of a solid engineering foundation, not as a bolt-on feature.
 
@@ -20,7 +20,6 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 
 ## Core Expertise
 
----
 ### 🤖 AI Systems & LLM Engineering
 
 ✓ Designing agentic workflows (planning, execution, tool use)  
