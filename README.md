@@ -12,6 +12,19 @@ Clients bring me in when:
 My strength is owning systems end-to-end — frontend, backend, cloud, and data — and applying AI as part of a solid engineering foundation, not as a bolt-on feature.
 
 
+## Selected Experience
+
+🚀 Built and scaled **multiple SaaS platforms from scratch**, serving thousands of users  
+
+🤖 Developed **AI-powered systems** for legal-tech and document workflows, improving efficiency and automation  
+
+🏛️ Architected **enterprise applications** adopted by government entities in multiple countries  
+
+💼 **9+ years** of experience at enterprise companies including Stewart Title and Enghouse Interactive  
+
+🌟 Supported **50+ startups**, guiding product architecture and enabling faster go-to-market
+
+
 ## 🏆 Achievements:
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
 - 🌟 **Fortune 500 Experience**: Served over 9 years at Stewart Title and Enghouse Interactive.
@@ -84,15 +97,6 @@ My strength is owning systems end-to-end — frontend, backend, cloud, and data 
 
 ✓ Production monitoring & scaling  
   ⚡ `Prometheus`, `Grafana`, `NewRelic`, `CloudWatch`
-
-
-## Selected Experience
-
-- Built and scaled multiple SaaS platforms from scratch  
-- Developed AI-powered systems for legal-tech and document workflows  
-- Architected enterprise applications used by government entities  
-- 9+ years at enterprise companies including Stewart Title and Enghouse Interactive  
-- Supported 50+ startups with product architecture and development  
 
 ---
 
