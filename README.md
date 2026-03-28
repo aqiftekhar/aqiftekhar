@@ -1,5 +1,5 @@
-## Senior AI & Full-Stack Engineer | Agentic Systems | LLMs & RAG | SaaS 👋
-
+## Senior AI & Full-Stack Engineer | Agentic Systems | LLMs & RAG | SaaS  
+ 
 👋 I'm Aqdas, a full-stack engineer and AI systems architect with 18+ years of production experience. I've built financial platforms, case management systems, and enterprise SaaS products and I've been embedding production-grade AI into all of them.
 
 Clients bring me in when:
