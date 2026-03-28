@@ -1,11 +1,15 @@
-## IBM Certified Full Stack Developer | C#/NodeJS | React,Angular | AI/ML 👋
+## Senior AI & Full-Stack Engineer | Agentic Systems | LLMs & RAG | SaaS 👋
 
-👋 Hi there! I'm Aqdas, a seasoned Senior Software Engineer specializing in Full Stack Development. With 18+ years of experience, I excel in Python, AI/ML, .NET, Angular, React, Vue, and Web3. Currently, I am focused on AI/ML, React, Angular, Vue, Node.js, and Web3 projects. I excel in database design, complex stored procedures, and query optimization.
+👋 I'm Aqdas, a full-stack engineer and AI systems architect with 18+ years of production experience. I've built financial platforms, case management systems, and enterprise SaaS products and I've been embedding production-grade AI into all of them.
 
-🚀 Seeking a highly skilled Full Stack Developer/Technical Leader? Let's connect! 🚀
+Clients bring me in when:
 
-Thank you! 
-Aqdas
+✓ A SaaS product needs to scale reliably across users, data, and features
+✓ Architecture has grown fragile and requires senior-level restructuring
+✓ New capabilities — including AI — must be added without disrupting production
+✓ Performance, cost, or maintainability are becoming long-term risks
+
+My strength is owning systems end-to-end — frontend, backend, cloud, and data — and applying AI as part of a solid engineering foundation, not as a bolt-on feature.
 
 ## 🏆 Achievements:
 - 🏅 **StackOverflow**: **4 Gold**, **17 Silver**, and **60 Bronze** badges, showcasing my expertise and contributions.
@@ -17,11 +21,11 @@ Aqdas
 
 ## 🚀 Career Highlights
 
-- **2005 - Present**: Began my development career with .NET stacks, honing my skills and expanding my expertise in various technologies including Python, NodeJs, React, Angular, Vue, Web 3, and AI/ML.
+- **2005 - 2009**: Began my development career with .NET stacks, honing my skills and expanding my expertise in various technologies including Python, NodeJs, React, Angular, Vue, Web 3, and AI/ML.
 - **2009 - 2012**: Joined **Enghouse Interactive**, where I developed applications for CISCO, contributing to their cutting-edge solutions.
 - **2013 - 2014**: Worked at **Trimble Inc**. as a key developer for the LandFolio project, which was successfully implemented at the Ministry of Trinidad and the Ministry of Kuwait.
 - **2015 - 2022**: Served at **Stewart Title (Houston, TX)**, initially as an Analyst Programmer and later as an Application Architect, shaping critical applications and systems.
-- **2022 - Present**: Transitioned to freelancing, where I’ve **supported over 58 startups** in achieving their technology and business goals through bespoke solutions and guidance.
+- **2022 - Present**: CTO NPMCODE LLC - **supported over 58 startups** in achieving their technology and business goals through bespoke solutions and guidance.
 
 
 ## My StackOverflow Stats
@@ -93,12 +97,6 @@ Here are some of my tech skills, represented with badges:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 [![Azure DB](https://img.shields.io/badge/Azure%20DB-0089D6?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)
-
-### 🔒 Blockchain
-[![Web3.js](https://img.shields.io/badge/Web3.js-F4A4D0?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Truffle](https://img.shields.io/badge/Truffle-3D4F7A?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/)
-[![Hardhat](https://img.shields.io/badge/Hardhat-4D3C2D?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
 
 ### 🤖 AI/ML
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
