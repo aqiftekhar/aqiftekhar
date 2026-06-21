@@ -131,11 +131,6 @@ Feel free to reach out to me through the following platforms:
       </a>
     </td>
     <td>
-      <a href="https://www.upwork.com/freelancers/~014f46a668bd15b677/">
-        <img src="https://img.shields.io/badge/Upwork-Hire%20Me-orange?style=for-the-badge&logo=upwork" alt="Upwork">
-      </a>
-    </td>
-    <td>
       <a href="mailto:aqdasiftekhar@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
       </a>
