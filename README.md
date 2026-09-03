@@ -6,10 +6,10 @@ Most of what I do is unglamorous and exactly what keeps client systems running: 
 
 𝐖𝐡𝐚𝐭 𝐈 𝐛𝐫𝐢𝐧𝐠:
 
-✓ 18+ years of full-stack delivery: C#/.NET, ASP.NET, Blazor, React, Angular, Node.js
-✓ RAG pipelines and LLM integration: LangChain, pgvector, Pinecone, ChromaDB, OpenAI/Claude
-✓ Fortune 500 production experience (Stewart Title) — architecture, performance, and scale, not just prototypes
-✓ Comfortable owning a feature end-to-end: backend, frontend, and cloud deployment on AWS/Azure
+✓ 18+ years of full-stack delivery: C#/.NET, ASP.NET, Blazor, React, Angular, Node.js </br>
+✓ RAG pipelines and LLM integration: LangChain, pgvector, Pinecone, ChromaDB, OpenAI/Claude</br>
+✓ Fortune 500 production experience (Stewart Title) — architecture, performance, and scale, not just prototypes</br>
+✓ Comfortable owning a feature end-to-end: backend, frontend, and cloud deployment on AWS/Azure</br>
 
 If you need someone to take a feature from idea to production, not just a notebook, let's talk about what you're building.
 
