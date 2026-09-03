@@ -1,73 +1,17 @@
-## Fractional CTO | AI Systems & Full-Stack Architect <img src="https://komarev.com/ghpvc/?username=aqiftekhar&color=blue" alt="Profile Views" height="25">
+## Full Stack Python/.NET/TypeScript Engineer | AI, RAG & LLM Integration <img src="https://komarev.com/ghpvc/?username=aqiftekhar&color=blue" alt="Profile Views" height="25">
  
-If your SaaS is scaling, breaking, or you’re trying to add AI without destabilizing your system, I help you design and stabilize production-grade systems that can actually support growth.
+I've been building production software since 2005, enterprise .NET/C# at a Fortune 500 title insurance company, full-stack JavaScript/TypeScript (React, Angular, Node.js) since 2016, and applied AI (RAG pipelines, LLM agents, voice AI) since 2023.
 
-I work as a Fractional CTO and Systems Architect for startups and agencies that need senior technical leadership without hiring a full-time executive.
+Most of what I do is unglamorous and exactly what keeps client systems running: fixing production bugs, migrating platforms to the cloud, hitting deadlines on long engagements. On my last RAG engagement, I diagnosed and fixed hallucination and embedding-drift issues in a system already serving real users, and added drift-monitoring dashboards the client hadn't asked for.
 
-With 18+ years of enterprise and SaaS engineering experience, I specialize in taking systems from “working but fragile” → “scalable, stable, AI-enabled production platforms.”
+𝐖𝐡𝐚𝐭 𝐈 𝐛𝐫𝐢𝐧𝐠:
 
+✓ 18+ years of full-stack delivery: C#/.NET, ASP.NET, Blazor, React, Angular, Node.js
+✓ RAG pipelines and LLM integration: LangChain, pgvector, Pinecone, ChromaDB, OpenAI/Claude
+✓ Fortune 500 production experience (Stewart Title) — architecture, performance, and scale, not just prototypes
+✓ Comfortable owning a feature end-to-end: backend, frontend, and cloud deployment on AWS/Azure
 
----
-
-### 🧠 𝐖𝐡𝐞𝐫𝐞 𝐈 𝐀𝐝𝐝 𝐭𝐡𝐞 𝐌𝐨𝐬𝐭 𝐕𝐚𝐥𝐮𝐞
-
-I’m typically brought in when:
-
-✓ AI features work in demos but fail in production<br/>
-✓ SaaS architecture is becoming unstable under growth<br/>
-✓ Teams are adding AI without proper system design<br/>
-✓ Performance, cost, or reliability are becoming critical issues<br/>
-✓ A senior technical leader is needed to guide architecture decisions<br/>
-
-
-### 🤖 𝐀𝐈 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 & 𝐋𝐋𝐌 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
-
-I design and build AI systems that actually run in production:
-
-✓ Agentic workflows (tool use, planning, execution)<br/>
-✓ LLM orchestration (OpenAI, Claude, Gemini, local models)<br/>
-✓ RAG pipelines (Pinecone, Weaviate, FAISS, Chroma)<br/>
-✓ Long-term memory & stateful AI systems<br/>
-✓ Cost & latency optimization for LLM workloads<br/>
-✓ Private / on-prem AI deployments<br/>
-
-
-### 🏗️ 𝐂𝐨𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-
-✓ Backend: .NET Core, Node.js, Python, NestJS<br/>
-✓ Frontend: React, Next.js, Angular, TypeScript<br/>
-✓ Architecture: Microservices, event-driven systems, clean architecture<br/>
-✓ APIs: REST, GraphQL, gRPC<br/>
-✓ Databases: SQL Server, PostgreSQL, MySQL, NoSQL<br/>
-
-
-
-### 𝐂𝐥𝐨𝐮𝐝 & 𝐒𝐜𝐚𝐥𝐞
-
-✓ AWS, Azure, GCP<br/>
-✓ Docker, Kubernetes, serverless systems<br/>
-✓ CI/CD pipelines (GitHub Actions, Azure DevOps)<br/>
-✓ Terraform / Infrastructure as Code<br/>
-✓ Observability (Datadog, Prometheus, CloudWatch)<br/>
-
-
-### 💼 𝗪𝗛𝗬 𝗖𝗟𝗜𝗘𝗡𝗧𝗦 𝗧𝗥𝗨𝗦𝗧 𝗠𝗘
-
-✓ 18+ years of production engineering experience (since 2005)<br/>
-✓ Former Enterprise Application Architect (Stewart Title)<br/>
-✓ Top Rated Plus on Upwork<br/>
-✓ Strong track record in SaaS, finance, and enterprise systems<br/>
-✓ Stack Overflow recognized contributor (Gold/Silver badges)<br/>
-✓ IBM Certified in full-stack development<br/>
-
-
-### 🧭 𝐄𝐧𝐠𝐚𝐠𝐞𝐦𝐞𝐧𝐭𝐬 𝐈 𝐓𝐚𝐤𝐞 𝐎𝐧
-
-✓ Fractional CTO / technical advisory roles<br/>
-✓ AI system architecture & integration<br/>
-✓ SaaS scaling & modernization<br/>
-✓ Production rescue / debugging complex systems<br/>
-✓ Backend + AI integration projects<br/>
+If you need someone to take a feature from idea to production, not just a notebook, let's talk about what you're building.
 
 ---
 
