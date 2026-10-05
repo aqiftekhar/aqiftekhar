@@ -1,4 +1,4 @@
-## Full Stack Python/.NET/TypeScript Engineer | AI, RAG & LLM Integration <img src="https://komarev.com/ghpvc/?username=aqiftekhar&color=blue" alt="Profile Views" height="25">
+## AI M/L Architect | Full Stack Python/.NET/TypeScript Engineer <img src="https://komarev.com/ghpvc/?username=aqiftekhar&color=blue" alt="Profile Views" height="25">
  
 I've been building production software since 2005, enterprise .NET/C# at a Fortune 500 title insurance company, full-stack JavaScript/TypeScript (React, Angular, Node.js) since 2016, and applied AI (RAG pipelines, LLM agents, voice AI) since 2023.
 
